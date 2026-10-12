@@ -1,15 +1,14 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" alt="halaxy · AI Agent / LLM 应用工程与开源贡献" width="100%" />
+  <img src="assets/profile-banner.svg" alt="halaxy · AI Agent / LLM 应用工程" width="100%" />
 </p>
 
 <p align="center">
   <a href="#重点项目">项目</a> &nbsp; / &nbsp;
-  <a href="#开源贡献">贡献</a> &nbsp; / &nbsp;
   <a href="#技术实践">技术</a> &nbsp; / &nbsp;
-  <a href="https://github.com/pulls?q=is%3Apr+author%3A89799969+is%3Amerged">全部已合并 PR ↗</a>
+  <a href="https://github.com/89799969/89799969/issues">交流 ↗</a>
 </p>
 
-我是 **halaxy**，关注 **AI Agent / LLM 应用工程**。我把模型接入本地工具，也通过开源贡献处理 Agent 工具链中的协议、配置与可靠性问题。
+我是 **halaxy**，关注 **AI Agent / LLM 应用工程**。我在个人项目中探索模型接入、工具调用与可靠性设计，把 AI 能力接入实用工具。
 
 > **求职方向** · AI Agent / LLM 应用开发、AI 开发者工具与相关后端工程。
 
@@ -40,38 +39,14 @@
 
 </details>
 
-## 开源贡献
-
-参与的开源项目与已合并 PR：
-
-### [ANOLISA / AgentSight](https://github.com/agentic-os-org/ANOLISA) · LLM 可观测性
-
-`Rust`
-
-[已合并 PR #4116 ↗](https://github.com/agentic-os-org/ANOLISA/pull/4116) &nbsp; · &nbsp; [#4249 ↗](https://github.com/agentic-os-org/ANOLISA/pull/4249)
-
-### [nanocoder](https://github.com/Nano-Collective/nanocoder) · Agent 工具链
-
-`TypeScript` `MCP`
-
-[已合并 PR #1256 ↗](https://github.com/Nano-Collective/nanocoder/pull/1256) &nbsp; · &nbsp; [#1255 ↗](https://github.com/Nano-Collective/nanocoder/pull/1255)
-
-<details>
-<summary><strong>更多开源项目</strong></summary>
-
-- **[Apache RocketMQ Dashboard](https://github.com/apache/rocketmq-dashboard)** · Java · [已合并 PR #4202 ↗](https://github.com/apache/rocketmq-dashboard/pull/4202)
-- **[Subtitle Edit](https://github.com/SubtitleEdit/subtitleedit)** · C# · [已合并 PR #11150 ↗](https://github.com/SubtitleEdit/subtitleedit/pull/11150)
-
-</details>
-
 ## 技术实践
 
-- **LLM / Agent** · 模型接口接入、Function Calling、JSON Schema、MCP 与 SSE 流式事件处理。
+- **LLM / Agent** · 模型接口接入、Function Calling、JSON Schema 与批量文件分析。
 - **应用开发** · Python / PySide6 桌面工具、CLI，以及 Flask / JavaScript Web 交互。
-- **代码维护与验证** · Rust、TypeScript、Java、C# 开源贡献；通过 pytest、Cargo test、TypeScript 测试和 Maven / JUnit 编写回归覆盖。
+- **可靠性与测试** · 请求限速、超时重试、结果校验与 pytest 测试。
 
 <p align="center">
   <br />
   <strong>把模型接入真实工具，把问题修到可验证。</strong><br />
-  <a href="https://github.com/89799969/89799969/issues">交流 AI 应用与开源协作 ↗</a>
+  <a href="https://github.com/89799969/89799969/issues">交流 AI 应用与工具开发 ↗</a>
 </p>
