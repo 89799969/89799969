@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="286" viewBox="0 0 1000 286" role="img" aria-labelledby="title desc">
+  <title id="title">SpaceDeletor — AI-assisted disk cleanup</title>
+  <desc id="desc">工作流示意：扫描文件、模型分析、可选工具调查、人工确认清理。不是应用截图。</desc>
+  <defs>
+    <linearGradient id="background" x1="0" x2="1"><stop stop-color="#f1f7f7"/><stop offset="1" stop-color="#edf1fa"/></linearGradient>
+  </defs>
+  <rect x=".5" y=".5" width="999" height="285" rx="14" fill="url(#background)" stroke="#d4e0e7"/>
+  <rect x=".5" y=".5" width="6" height="285" rx="3" fill="#247d88"/>
+  <text x="34" y="47" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600" letter-spacing="2" fill="#39747f">FEATURED PROJECT</text>
+  <text x="34" y="99" font-family="Segoe UI,Arial,sans-serif" font-size="41" font-weight="700" letter-spacing="-1" fill="#142d42">SpaceDeletor</text>
+  <text x="36" y="139" font-family="Segoe UI,Microsoft YaHei,sans-serif" font-size="24" fill="#52677a">AI 辅助磁盘清理 · Qt GUI / CLI</text>
+  <g fill="#fff" stroke="#d2dee6">
+    <rect x="34" y="177" width="218" height="68" rx="10"/>
+    <rect x="272" y="177" width="218" height="68" rx="10"/>
+    <rect x="510" y="177" width="218" height="68" rx="10"/>
+    <rect x="748" y="177" width="218" height="68" rx="10"/>
+  </g>
+  <g fill="none" stroke="#7695a6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M257 210h10l-4-4m4 4l-4 4M495 210h10l-4-4m4 4l-4 4M733 210h10l-4-4m4 4l-4 4"/></g>
+  <g font-family="Segoe UI,Microsoft YaHei,sans-serif" font-size="23" fill="#28495b">
+    <text x="55" y="218">01  文件扫描</text>
+    <text x="293" y="218">02  LLM 分析</text>
+    <text x="531" y="218">03  可选调查</text>
+    <text x="769" y="218">04  人工确认</text>
+  </g>
+  <text x="895" y="269" font-family="Microsoft YaHei,sans-serif" font-size="12" fill="#718496">工作流示意</text>
+</svg>
