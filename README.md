@@ -42,27 +42,25 @@
 
 ## 开源贡献
 
-以下精选 PR 均由我向上游提交，且已合并。每项贡献都可直接查看实现与验证说明。
+参与的开源项目与已合并 PR：
 
 ### [ANOLISA / AgentSight](https://github.com/agentic-os-org/ANOLISA) · LLM 可观测性
 
-`Rust` `Responses API` `SSE` `Token 统计`
+`Rust`
 
-- **保留并行工具调用** — 修复 Responses SSE 流中 function call 丢失，保留调用 ID、名称与参数，并补充回归测试。[#4116 ↗](https://github.com/agentic-os-org/ANOLISA/pull/4116)
-- **修正 Token 语义** — 补齐缓存 Token 读取、供应商识别与字段解析，避免记录遗漏和重复计数。[#4249 ↗](https://github.com/agentic-os-org/ANOLISA/pull/4249)
+[已合并 PR #4116 ↗](https://github.com/agentic-os-org/ANOLISA/pull/4116) &nbsp; · &nbsp; [#4249 ↗](https://github.com/agentic-os-org/ANOLISA/pull/4249)
 
 ### [nanocoder](https://github.com/Nano-Collective/nanocoder) · Agent 工具链
 
-`TypeScript` `MCP` `配置校验` `调度生命周期`
+`TypeScript` `MCP`
 
-- **保留 MCP 配置来源** — 让项目级配置进入凭据安全校验，修复来源信息在加载过程中丢失的问题。[#1256 ↗](https://github.com/Nano-Collective/nanocoder/pull/1256)
-- **修复共享调度** — 为 cron 表达式增加引用计数，取消一个订阅时保留其他订阅的任务。[#1255 ↗](https://github.com/Nano-Collective/nanocoder/pull/1255)
+[已合并 PR #1256 ↗](https://github.com/Nano-Collective/nanocoder/pull/1256) &nbsp; · &nbsp; [#1255 ↗](https://github.com/Nano-Collective/nanocoder/pull/1255)
 
 <details>
-<summary><strong>更多已合并贡献</strong> · 后端一致性与 LLM 请求处理</summary>
+<summary><strong>更多开源项目</strong></summary>
 
-- **[Apache RocketMQ Dashboard](https://github.com/apache/rocketmq-dashboard)** · Java — 在实例删除事务提交后清理数据源缓存，补充缓存与提交时序的回归覆盖。[#4202 ↗](https://github.com/apache/rocketmq-dashboard/pull/4202)
-- **[Subtitle Edit](https://github.com/SubtitleEdit/subtitleedit)** · C# — 修复 DeepSeek 翻译请求中自定义 Prompt 缺少 JSON 编码的问题。[#11150 ↗](https://github.com/SubtitleEdit/subtitleedit/pull/11150)
+- **[Apache RocketMQ Dashboard](https://github.com/apache/rocketmq-dashboard)** · Java · [已合并 PR #4202 ↗](https://github.com/apache/rocketmq-dashboard/pull/4202)
+- **[Subtitle Edit](https://github.com/SubtitleEdit/subtitleedit)** · C# · [已合并 PR #11150 ↗](https://github.com/SubtitleEdit/subtitleedit/pull/11150)
 
 </details>
 
