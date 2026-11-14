@@ -5,6 +5,7 @@
 <p align="center">
   <a href="#重点项目">项目</a> &nbsp; / &nbsp;
   <a href="#技术实践">技术</a> &nbsp; / &nbsp;
+  <a href="https://halaxy.pages.dev">博客 ↗</a> &nbsp; / &nbsp;
   <a href="https://github.com/89799969/89799969/issues">交流 ↗</a>
 </p>
 
@@ -48,5 +49,6 @@
 <p align="center">
   <br />
   <strong>把模型接入真实工具，把问题修到可验证。</strong><br />
+  <a href="https://halaxy.pages.dev">访问个人博客 ↗</a> &nbsp; · &nbsp;
   <a href="https://github.com/89799969/89799969/issues">交流 AI 应用与工具开发 ↗</a>
 </p>
